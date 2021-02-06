@@ -1,3 +1,10 @@
+Links on the subject: 
+
+https://stackoverflow.com/questions/62430747/parsing-azure-analysis-response-to-a-json-in-azure-function-using-adomdclient
+https://blog.crossjoin.co.uk/category/azure-analysis-services/
+
+
+
 
 This sample is a HTTP proxy for XMLA endpoints, intended for use with Power BI Premium or Azure Analysis Services.
 
